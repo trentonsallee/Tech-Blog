@@ -39,7 +39,7 @@ No other Collaberators
 
 ## Contact
 GitHub
-[trentonsallee](https://github.com/trentonsallee/E-Commerce-Back-End)
+[trentonsallee](https://github.com/trentonsallee/Tech-Blog)
 
 Email
 trentonsmiles@gmail.com
